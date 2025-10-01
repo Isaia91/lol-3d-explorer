@@ -13,6 +13,7 @@ export async function getChampions(locale = "en_US") {
     if (!res.ok) throw new Error("Failed to fetch champions");
     const data = await res.json();
     const champs = Object.values(data.data);
+    console.log("version: ", version);
     return { version, champions: champs };
 }
 
