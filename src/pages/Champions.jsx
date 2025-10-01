@@ -33,7 +33,7 @@ export default function Champions() {
                 setRotationIds(rot.freeChampionIds || []);
             } catch (e) {
                 console.error(e);
-                setError("Problème de chargement des données.");
+                setError("Problème de chargement des données. Verifiez que votre clée api ne soit pas expirée");
             }
         })();
     }, []);

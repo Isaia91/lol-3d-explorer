@@ -1,0 +1,674 @@
+[
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Kaisa",
+    "games": 156,
+    "win_rate_pct": 51.28
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Rakan",
+    "games": 84,
+    "win_rate_pct": 48.81
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Corki",
+    "games": 81,
+    "win_rate_pct": 46.91
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Nautilus",
+    "games": 81,
+    "win_rate_pct": 44.44
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Bard",
+    "games": 81,
+    "win_rate_pct": 59.26
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Lucian",
+    "games": 77,
+    "win_rate_pct": 40.26
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Rell",
+    "games": 74,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Jhin",
+    "games": 68,
+    "win_rate_pct": 55.88
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Neeko",
+    "games": 65,
+    "win_rate_pct": 58.46
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Ezreal",
+    "games": 65,
+    "win_rate_pct": 60
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Alistar",
+    "games": 64,
+    "win_rate_pct": 53.13
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Yunara",
+    "games": 61,
+    "win_rate_pct": 55.74
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Jinx",
+    "games": 58,
+    "win_rate_pct": 43.1
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Pyke",
+    "games": 55,
+    "win_rate_pct": 56.36
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Lulu",
+    "games": 53,
+    "win_rate_pct": 41.51
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Sivir",
+    "games": 51,
+    "win_rate_pct": 45.1
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Ashe",
+    "games": 50,
+    "win_rate_pct": 66
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Senna",
+    "games": 45,
+    "win_rate_pct": 51.11
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Braum",
+    "games": 43,
+    "win_rate_pct": 55.81
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Poppy",
+    "games": 38,
+    "win_rate_pct": 44.74
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Thresh",
+    "games": 37,
+    "win_rate_pct": 54.05
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Leona",
+    "games": 36,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Caitlyn",
+    "games": 35,
+    "win_rate_pct": 42.86
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Elise",
+    "games": 35,
+    "win_rate_pct": 45.71
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Karma",
+    "games": 34,
+    "win_rate_pct": 41.18
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Xayah",
+    "games": 34,
+    "win_rate_pct": 44.12
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Mel",
+    "games": 33,
+    "win_rate_pct": 66.67
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Aphelios",
+    "games": 31,
+    "win_rate_pct": 45.16
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Zeri",
+    "games": 30,
+    "win_rate_pct": 53.33
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "MissFortune",
+    "games": 29,
+    "win_rate_pct": 31.03
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Smolder",
+    "games": 27,
+    "win_rate_pct": 51.85
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Blitzcrank",
+    "games": 27,
+    "win_rate_pct": 62.96
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Ziggs",
+    "games": 25,
+    "win_rate_pct": 60
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Tristana",
+    "games": 25,
+    "win_rate_pct": 40
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Nami",
+    "games": 24,
+    "win_rate_pct": 41.67
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Sona",
+    "games": 21,
+    "win_rate_pct": 47.62
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Draven",
+    "games": 21,
+    "win_rate_pct": 52.38
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Pantheon",
+    "games": 21,
+    "win_rate_pct": 57.14
+  },
+  {
+    "lane": "BOTTOM",
+    "champion_name": "Janna",
+    "games": 20,
+    "win_rate_pct": 35
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Qiyana",
+    "games": 103,
+    "win_rate_pct": 56.31
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "JarvanIV",
+    "games": 101,
+    "win_rate_pct": 55.45
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Sylas",
+    "games": 92,
+    "win_rate_pct": 45.65
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "LeeSin",
+    "games": 81,
+    "win_rate_pct": 45.68
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Nidalee",
+    "games": 52,
+    "win_rate_pct": 40.38
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Viego",
+    "games": 48,
+    "win_rate_pct": 39.58
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Zed",
+    "games": 47,
+    "win_rate_pct": 46.81
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Diana",
+    "games": 46,
+    "win_rate_pct": 56.52
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Hecarim",
+    "games": 46,
+    "win_rate_pct": 47.83
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "XinZhao",
+    "games": 42,
+    "win_rate_pct": 45.24
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Rengar",
+    "games": 37,
+    "win_rate_pct": 40.54
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "MonkeyKing",
+    "games": 37,
+    "win_rate_pct": 45.95
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Poppy",
+    "games": 30,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Naafiri",
+    "games": 29,
+    "win_rate_pct": 44.83
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Vi",
+    "games": 26,
+    "win_rate_pct": 42.31
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Talon",
+    "games": 25,
+    "win_rate_pct": 56
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Taliyah",
+    "games": 24,
+    "win_rate_pct": 58.33
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Karthus",
+    "games": 23,
+    "win_rate_pct": 52.17
+  },
+  {
+    "lane": "JUNGLE",
+    "champion_name": "Volibear",
+    "games": 22,
+    "win_rate_pct": 40.91
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Orianna",
+    "games": 80,
+    "win_rate_pct": 56.25
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Aurora",
+    "games": 63,
+    "win_rate_pct": 66.67
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Syndra",
+    "games": 48,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Sylas",
+    "games": 45,
+    "win_rate_pct": 42.22
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Galio",
+    "games": 44,
+    "win_rate_pct": 56.82
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Ryze",
+    "games": 43,
+    "win_rate_pct": 44.19
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Taliyah",
+    "games": 43,
+    "win_rate_pct": 58.14
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Zoe",
+    "games": 41,
+    "win_rate_pct": 48.78
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "TwistedFate",
+    "games": 41,
+    "win_rate_pct": 60.98
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Ahri",
+    "games": 40,
+    "win_rate_pct": 30
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Leblanc",
+    "games": 39,
+    "win_rate_pct": 46.15
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Hwei",
+    "games": 38,
+    "win_rate_pct": 44.74
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Yone",
+    "games": 36,
+    "win_rate_pct": 41.67
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Jayce",
+    "games": 35,
+    "win_rate_pct": 60
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Akali",
+    "games": 34,
+    "win_rate_pct": 52.94
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Akshan",
+    "games": 33,
+    "win_rate_pct": 51.52
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Azir",
+    "games": 30,
+    "win_rate_pct": 46.67
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Corki",
+    "games": 30,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Tristana",
+    "games": 26,
+    "win_rate_pct": 57.69
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Ambessa",
+    "games": 26,
+    "win_rate_pct": 46.15
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Yasuo",
+    "games": 25,
+    "win_rate_pct": 48
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Alistar",
+    "games": 23,
+    "win_rate_pct": 47.83
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Nautilus",
+    "games": 21,
+    "win_rate_pct": 42.86
+  },
+  {
+    "lane": "MIDDLE",
+    "champion_name": "Kaisa",
+    "games": 20,
+    "win_rate_pct": 45
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Ambessa",
+    "games": 44,
+    "win_rate_pct": 54.55
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Sylas",
+    "games": 36,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Alistar",
+    "games": 34,
+    "win_rate_pct": 52.94
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Kaisa",
+    "games": 31,
+    "win_rate_pct": 58.06
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Aurora",
+    "games": 27,
+    "win_rate_pct": 40.74
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Qiyana",
+    "games": 27,
+    "win_rate_pct": 66.67
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "LeeSin",
+    "games": 25,
+    "win_rate_pct": 64
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Jayce",
+    "games": 24,
+    "win_rate_pct": 70.83
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Ryze",
+    "games": 24,
+    "win_rate_pct": 29.17
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Corki",
+    "games": 24,
+    "win_rate_pct": 45.83
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Poppy",
+    "games": 24,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Yunara",
+    "games": 22,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "JarvanIV",
+    "games": 22,
+    "win_rate_pct": 59.09
+  },
+  {
+    "lane": "NONE",
+    "champion_name": "Bard",
+    "games": 22,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Ambessa",
+    "games": 140,
+    "win_rate_pct": 44.29
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Rumble",
+    "games": 64,
+    "win_rate_pct": 50
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Aatrox",
+    "games": 62,
+    "win_rate_pct": 51.61
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Sion",
+    "games": 57,
+    "win_rate_pct": 50.88
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Renekton",
+    "games": 57,
+    "win_rate_pct": 45.61
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Jayce",
+    "games": 52,
+    "win_rate_pct": 67.31
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Jax",
+    "games": 49,
+    "win_rate_pct": 63.27
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "KSante",
+    "games": 39,
+    "win_rate_pct": 51.28
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Fiora",
+    "games": 37,
+    "win_rate_pct": 48.65
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Riven",
+    "games": 35,
+    "win_rate_pct": 62.86
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Yone",
+    "games": 34,
+    "win_rate_pct": 47.06
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Yorick",
+    "games": 33,
+    "win_rate_pct": 51.52
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Irelia",
+    "games": 29,
+    "win_rate_pct": 55.17
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Aurora",
+    "games": 27,
+    "win_rate_pct": 40.74
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Shen",
+    "games": 23,
+    "win_rate_pct": 52.17
+  },
+  {
+    "lane": "TOP",
+    "champion_name": "Singed",
+    "games": 21,
+    "win_rate_pct": 47.62
+  }
+]

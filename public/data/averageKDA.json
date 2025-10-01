@@ -1,0 +1,152 @@
+[
+  {
+    "champion_name": "Karthus",
+    "avg_kills": 9.86,
+    "avg_deaths": 8.49,
+    "avg_assists": 9.31
+  },
+  {
+    "champion_name": "Talon",
+    "avg_kills": 9.12,
+    "avg_deaths": 5.79,
+    "avg_assists": 7.68
+  },
+  {
+    "champion_name": "Akshan",
+    "avg_kills": 8.59,
+    "avg_deaths": 4.53,
+    "avg_assists": 5.8
+  },
+  {
+    "champion_name": "Naafiri",
+    "avg_kills": 8.56,
+    "avg_deaths": 4.11,
+    "avg_assists": 7.81
+  },
+  {
+    "champion_name": "Quinn",
+    "avg_kills": 8.44,
+    "avg_deaths": 5.47,
+    "avg_assists": 7.85
+  },
+  {
+    "champion_name": "Akali",
+    "avg_kills": 8.24,
+    "avg_deaths": 5.06,
+    "avg_assists": 5.57
+  },
+  {
+    "champion_name": "Diana",
+    "avg_kills": 8.17,
+    "avg_deaths": 4.78,
+    "avg_assists": 7.65
+  },
+  {
+    "champion_name": "Qiyana",
+    "avg_kills": 8.12,
+    "avg_deaths": 4.86,
+    "avg_assists": 7.23
+  },
+  {
+    "champion_name": "Olaf",
+    "avg_kills": 7.88,
+    "avg_deaths": 4.82,
+    "avg_assists": 5.79
+  },
+  {
+    "champion_name": "Zed",
+    "avg_kills": 7.87,
+    "avg_deaths": 4.59,
+    "avg_assists": 6.96
+  },
+  {
+    "champion_name": "Kaisa",
+    "avg_kills": 7.86,
+    "avg_deaths": 5.07,
+    "avg_assists": 6.56
+  },
+  {
+    "champion_name": "Rengar",
+    "avg_kills": 7.83,
+    "avg_deaths": 5.62,
+    "avg_assists": 5.83
+  },
+  {
+    "champion_name": "Zeri",
+    "avg_kills": 7.83,
+    "avg_deaths": 5.76,
+    "avg_assists": 6.65
+  },
+  {
+    "champion_name": "Mel",
+    "avg_kills": 7.57,
+    "avg_deaths": 4.87,
+    "avg_assists": 4.63
+  },
+  {
+    "champion_name": "Hecarim",
+    "avg_kills": 7.46,
+    "avg_deaths": 4.88,
+    "avg_assists": 9.68
+  },
+  {
+    "champion_name": "Viego",
+    "avg_kills": 7.28,
+    "avg_deaths": 5.27,
+    "avg_assists": 5.19
+  },
+  {
+    "champion_name": "Riven",
+    "avg_kills": 7.14,
+    "avg_deaths": 4.9,
+    "avg_assists": 5.03
+  },
+  {
+    "champion_name": "Aphelios",
+    "avg_kills": 7.12,
+    "avg_deaths": 5.33,
+    "avg_assists": 4.4
+  },
+  {
+    "champion_name": "MissFortune",
+    "avg_kills": 7.05,
+    "avg_deaths": 5.79,
+    "avg_assists": 6.26
+  },
+  {
+    "champion_name": "Jinx",
+    "avg_kills": 6.67,
+    "avg_deaths": 5.12,
+    "avg_assists": 6.86
+  },
+  {
+    "champion_name": "Sylas",
+    "avg_kills": 6.66,
+    "avg_deaths": 5.5,
+    "avg_assists": 7.7
+  },
+  {
+    "champion_name": "Taliyah",
+    "avg_kills": 6.64,
+    "avg_deaths": 5.53,
+    "avg_assists": 9.54
+  },
+  {
+    "champion_name": "Corki",
+    "avg_kills": 6.58,
+    "avg_deaths": 5.42,
+    "avg_assists": 7.16
+  },
+  {
+    "champion_name": "Smolder",
+    "avg_kills": 6.51,
+    "avg_deaths": 5.49,
+    "avg_assists": 6.03
+  },
+  {
+    "champion_name": "Ekko",
+    "avg_kills": 6.48,
+    "avg_deaths": 5.03,
+    "avg_assists": 6.13
+  }
+]

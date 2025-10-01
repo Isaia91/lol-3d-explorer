@@ -95,7 +95,7 @@ export default function Home() {
                         <h2 className="section-title h1">Mettez en avant vos champions</h2>
                         <p className="text-secondary">Un aperçu de quelques icônes de la Faille. Découvrez leurs
                             compétences et skins.</p>
-                        <a className="btn btn-outline-light" href="#champions"><i className="bi bi-collection me-2"></i>Parcourir
+                        <a className="btn btn-outline-light" href="/champions"><i className="bi bi-collection me-2"></i>Parcourir
                             la liste</a>
                     </div>
                     <div className="col-lg-7">
@@ -110,33 +110,7 @@ export default function Home() {
                                         <p>Assassin de vent pour midlane ou toplane.</p>
                                     </div>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
-                                         className="d-block w-100" alt="Lux"/>
-                                    <div className="carousel-caption">
-                                        <h5>Lux — Dame de Lumière</h5>
-                                        <p>Mage à longue portée, utilité et burst.</p>
-                                    </div>
-                                </div>
-                                <div className="carousel-item">
-                                    <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg"
-                                         className="d-block w-100" alt="Garen"/>
-                                    <div className="carousel-caption">
-                                        <h5>Garen — La Puissance de Demacia</h5>
-                                        <p>Bruiser/tank fiable pour toplane.</p>
-                                    </div>
-                                </div>
                             </div>
-                            <button className="carousel-control-prev" type="button" data-bs-target="#featuredCarousel"
-                                    data-bs-slide="prev">
-                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span className="visually-hidden">Précédent</span>
-                            </button>
-                            <button className="carousel-control-next" type="button" data-bs-target="#featuredCarousel"
-                                    data-bs-slide="next">
-                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span className="visually-hidden">Suivant</span>
-                            </button>
                         </div>
                     </div>
                 </div>

@@ -1,0 +1,302 @@
+[
+  {
+    "champion_name": "Jayce",
+    "games": 115,
+    "wins": 76,
+    "win_rate_pct": 66.09
+  },
+  {
+    "champion_name": "Ashe",
+    "games": 72,
+    "wins": 45,
+    "win_rate_pct": 62.5
+  },
+  {
+    "champion_name": "Fiora",
+    "games": 58,
+    "wins": 36,
+    "win_rate_pct": 62.07
+  },
+  {
+    "champion_name": "TwistedFate",
+    "games": 53,
+    "wins": 32,
+    "win_rate_pct": 60.38
+  },
+  {
+    "champion_name": "Riven",
+    "games": 58,
+    "wins": 35,
+    "win_rate_pct": 60.34
+  },
+  {
+    "champion_name": "Diana",
+    "games": 54,
+    "wins": 32,
+    "win_rate_pct": 59.26
+  },
+  {
+    "champion_name": "Ezreal",
+    "games": 85,
+    "wins": 50,
+    "win_rate_pct": 58.82
+  },
+  {
+    "champion_name": "Thresh",
+    "games": 55,
+    "wins": 32,
+    "win_rate_pct": 58.18
+  },
+  {
+    "champion_name": "Taliyah",
+    "games": 78,
+    "wins": 45,
+    "win_rate_pct": 57.69
+  },
+  {
+    "champion_name": "Jax",
+    "games": 85,
+    "wins": 49,
+    "win_rate_pct": 57.65
+  },
+  {
+    "champion_name": "Qiyana",
+    "games": 141,
+    "wins": 81,
+    "win_rate_pct": 57.45
+  },
+  {
+    "champion_name": "JarvanIV",
+    "games": 126,
+    "wins": 71,
+    "win_rate_pct": 56.35
+  },
+  {
+    "champion_name": "Neeko",
+    "games": 103,
+    "wins": 58,
+    "win_rate_pct": 56.31
+  },
+  {
+    "champion_name": "Bard",
+    "games": 126,
+    "wins": 70,
+    "win_rate_pct": 55.56
+  },
+  {
+    "champion_name": "Rell",
+    "games": 103,
+    "wins": 57,
+    "win_rate_pct": 55.34
+  },
+  {
+    "champion_name": "Aurora",
+    "games": 117,
+    "wins": 64,
+    "win_rate_pct": 54.7
+  },
+  {
+    "champion_name": "Zoe",
+    "games": 66,
+    "wins": 36,
+    "win_rate_pct": 54.55
+  },
+  {
+    "champion_name": "Orianna",
+    "games": 104,
+    "wins": 56,
+    "win_rate_pct": 53.85
+  },
+  {
+    "champion_name": "Hwei",
+    "games": 71,
+    "wins": 38,
+    "win_rate_pct": 53.52
+  },
+  {
+    "champion_name": "Jhin",
+    "games": 90,
+    "wins": 48,
+    "win_rate_pct": 53.33
+  },
+  {
+    "champion_name": "Syndra",
+    "games": 77,
+    "wins": 41,
+    "win_rate_pct": 53.25
+  },
+  {
+    "champion_name": "Yunara",
+    "games": 94,
+    "wins": 50,
+    "win_rate_pct": 53.19
+  },
+  {
+    "champion_name": "Akali",
+    "games": 51,
+    "wins": 27,
+    "win_rate_pct": 52.94
+  },
+  {
+    "champion_name": "Galio",
+    "games": 73,
+    "wins": 38,
+    "win_rate_pct": 52.05
+  },
+  {
+    "champion_name": "Sion",
+    "games": 85,
+    "wins": 44,
+    "win_rate_pct": 51.76
+  },
+  {
+    "champion_name": "Alistar",
+    "games": 128,
+    "wins": 66,
+    "win_rate_pct": 51.56
+  },
+  {
+    "champion_name": "Tristana",
+    "games": 66,
+    "wins": 34,
+    "win_rate_pct": 51.52
+  },
+  {
+    "champion_name": "Kaisa",
+    "games": 214,
+    "wins": 110,
+    "win_rate_pct": 51.4
+  },
+  {
+    "champion_name": "Sivir",
+    "games": 74,
+    "wins": 38,
+    "win_rate_pct": 51.35
+  },
+  {
+    "champion_name": "Pantheon",
+    "games": 61,
+    "wins": 31,
+    "win_rate_pct": 50.82
+  },
+  {
+    "champion_name": "Elise",
+    "games": 71,
+    "wins": 36,
+    "win_rate_pct": 50.7
+  },
+  {
+    "champion_name": "LeeSin",
+    "games": 112,
+    "wins": 56,
+    "win_rate_pct": 50
+  },
+  {
+    "champion_name": "Pyke",
+    "games": 80,
+    "wins": 40,
+    "win_rate_pct": 50
+  },
+  {
+    "champion_name": "Braum",
+    "games": 64,
+    "wins": 32,
+    "win_rate_pct": 50
+  },
+  {
+    "champion_name": "Mel",
+    "games": 60,
+    "wins": 30,
+    "win_rate_pct": 50
+  },
+  {
+    "champion_name": "Smolder",
+    "games": 59,
+    "wins": 29,
+    "win_rate_pct": 49.15
+  },
+  {
+    "champion_name": "KSante",
+    "games": 57,
+    "wins": 28,
+    "win_rate_pct": 49.12
+  },
+  {
+    "champion_name": "Leona",
+    "games": 53,
+    "wins": 26,
+    "win_rate_pct": 49.06
+  },
+  {
+    "champion_name": "Rakan",
+    "games": 116,
+    "wins": 56,
+    "win_rate_pct": 48.28
+  },
+  {
+    "champion_name": "Senna",
+    "games": 58,
+    "wins": 28,
+    "win_rate_pct": 48.28
+  },
+  {
+    "champion_name": "Aatrox",
+    "games": 83,
+    "wins": 40,
+    "win_rate_pct": 48.19
+  },
+  {
+    "champion_name": "Jinx",
+    "games": 81,
+    "wins": 39,
+    "win_rate_pct": 48.15
+  },
+  {
+    "champion_name": "Leblanc",
+    "games": 52,
+    "wins": 25,
+    "win_rate_pct": 48.08
+  },
+  {
+    "champion_name": "Irelia",
+    "games": 52,
+    "wins": 25,
+    "win_rate_pct": 48.08
+  },
+  {
+    "champion_name": "Hecarim",
+    "games": 50,
+    "wins": 24,
+    "win_rate_pct": 48
+  },
+  {
+    "champion_name": "Corki",
+    "games": 141,
+    "wins": 67,
+    "win_rate_pct": 47.52
+  },
+  {
+    "champion_name": "Rumble",
+    "games": 91,
+    "wins": 43,
+    "win_rate_pct": 47.25
+  },
+  {
+    "champion_name": "Ambessa",
+    "games": 229,
+    "wins": 108,
+    "win_rate_pct": 47.16
+  },
+  {
+    "champion_name": "Sylas",
+    "games": 183,
+    "wins": 85,
+    "win_rate_pct": 46.45
+  },
+  {
+    "champion_name": "Yasuo",
+    "games": 56,
+    "wins": 26,
+    "win_rate_pct": 46.43
+  }
+]

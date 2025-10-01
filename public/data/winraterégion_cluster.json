@@ -1,0 +1,458 @@
+[
+  {
+    "cluster": "americas",
+    "champion_name": "Sylas",
+    "games": 49,
+    "win_rate_pct": 46.94
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Lulu",
+    "games": 47,
+    "win_rate_pct": 46.81
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Ambessa",
+    "games": 46,
+    "win_rate_pct": 52.17
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Yone",
+    "games": 43,
+    "win_rate_pct": 37.21
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Corki",
+    "games": 43,
+    "win_rate_pct": 46.51
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Riven",
+    "games": 41,
+    "win_rate_pct": 56.1
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Mel",
+    "games": 41,
+    "win_rate_pct": 58.54
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Kaisa",
+    "games": 39,
+    "win_rate_pct": 56.41
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Aurora",
+    "games": 34,
+    "win_rate_pct": 64.71
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Senna",
+    "games": 34,
+    "win_rate_pct": 47.06
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Alistar",
+    "games": 34,
+    "win_rate_pct": 47.06
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Syndra",
+    "games": 33,
+    "win_rate_pct": 57.58
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Lucian",
+    "games": 33,
+    "win_rate_pct": 42.42
+  },
+  {
+    "cluster": "americas",
+    "champion_name": "Jax",
+    "games": 32,
+    "win_rate_pct": 71.88
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Ambessa",
+    "games": 122,
+    "win_rate_pct": 46.72
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Kaisa",
+    "games": 101,
+    "win_rate_pct": 55.45
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Sylas",
+    "games": 78,
+    "win_rate_pct": 46.15
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Qiyana",
+    "games": 72,
+    "win_rate_pct": 55.56
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Lucian",
+    "games": 61,
+    "win_rate_pct": 40.98
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Renekton",
+    "games": 55,
+    "win_rate_pct": 45.45
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Aurora",
+    "games": 54,
+    "win_rate_pct": 57.41
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Orianna",
+    "games": 54,
+    "win_rate_pct": 57.41
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Corki",
+    "games": 54,
+    "win_rate_pct": 46.3
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "JarvanIV",
+    "games": 53,
+    "win_rate_pct": 58.49
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "LeeSin",
+    "games": 53,
+    "win_rate_pct": 49.06
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Jayce",
+    "games": 52,
+    "win_rate_pct": 67.31
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Alistar",
+    "games": 51,
+    "win_rate_pct": 49.02
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Poppy",
+    "games": 50,
+    "win_rate_pct": 38
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Bard",
+    "games": 49,
+    "win_rate_pct": 51.02
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Rakan",
+    "games": 47,
+    "win_rate_pct": 55.32
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Ryze",
+    "games": 41,
+    "win_rate_pct": 39.02
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Rell",
+    "games": 40,
+    "win_rate_pct": 57.5
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Braum",
+    "games": 40,
+    "win_rate_pct": 52.5
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Neeko",
+    "games": 40,
+    "win_rate_pct": 55
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Nautilus",
+    "games": 39,
+    "win_rate_pct": 51.28
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "KSante",
+    "games": 38,
+    "win_rate_pct": 47.37
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Sion",
+    "games": 37,
+    "win_rate_pct": 45.95
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Jhin",
+    "games": 37,
+    "win_rate_pct": 59.46
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Pantheon",
+    "games": 36,
+    "win_rate_pct": 47.22
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Rumble",
+    "games": 36,
+    "win_rate_pct": 58.33
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Caitlyn",
+    "games": 35,
+    "win_rate_pct": 40
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "TwistedFate",
+    "games": 34,
+    "win_rate_pct": 67.65
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Galio",
+    "games": 33,
+    "win_rate_pct": 54.55
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Yunara",
+    "games": 32,
+    "win_rate_pct": 53.13
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Jinx",
+    "games": 30,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "asia",
+    "champion_name": "Elise",
+    "games": 30,
+    "win_rate_pct": 53.33
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Kaisa",
+    "games": 74,
+    "win_rate_pct": 43.24
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Ambessa",
+    "games": 61,
+    "win_rate_pct": 44.26
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Nautilus",
+    "games": 58,
+    "win_rate_pct": 44.83
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Sylas",
+    "games": 56,
+    "win_rate_pct": 46.43
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "JarvanIV",
+    "games": 53,
+    "win_rate_pct": 54.72
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Bard",
+    "games": 49,
+    "win_rate_pct": 63.27
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Rumble",
+    "games": 46,
+    "win_rate_pct": 41.3
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Ezreal",
+    "games": 45,
+    "win_rate_pct": 64.44
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Corki",
+    "games": 44,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Alistar",
+    "games": 43,
+    "win_rate_pct": 58.14
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Rakan",
+    "games": 43,
+    "win_rate_pct": 41.86
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Yunara",
+    "games": 42,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Rell",
+    "games": 41,
+    "win_rate_pct": 46.34
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Qiyana",
+    "games": 40,
+    "win_rate_pct": 70
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Jayce",
+    "games": 37,
+    "win_rate_pct": 64.86
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Viego",
+    "games": 34,
+    "win_rate_pct": 29.41
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Taliyah",
+    "games": 34,
+    "win_rate_pct": 70.59
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Hwei",
+    "games": 34,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Neeko",
+    "games": 34,
+    "win_rate_pct": 55.88
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Poppy",
+    "games": 34,
+    "win_rate_pct": 58.82
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Smolder",
+    "games": 33,
+    "win_rate_pct": 51.52
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Elise",
+    "games": 32,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "LeeSin",
+    "games": 32,
+    "win_rate_pct": 56.25
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Tristana",
+    "games": 32,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Akshan",
+    "games": 32,
+    "win_rate_pct": 59.38
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Syndra",
+    "games": 32,
+    "win_rate_pct": 50
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Aatrox",
+    "games": 31,
+    "win_rate_pct": 45.16
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Pyke",
+    "games": 31,
+    "win_rate_pct": 45.16
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Jhin",
+    "games": 30,
+    "win_rate_pct": 46.67
+  },
+  {
+    "cluster": "europe",
+    "champion_name": "Zed",
+    "games": 30,
+    "win_rate_pct": 56.67
+  }
+]

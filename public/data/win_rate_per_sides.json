@@ -1,0 +1,14 @@
+[
+  {
+    "side": "BLUE",
+    "games": 3925,
+    "wins": 1940,
+    "win_rate_pct": 49.43
+  },
+  {
+    "side": "RED",
+    "games": 3925,
+    "wins": 1985,
+    "win_rate_pct": 50.57
+  }
+]
