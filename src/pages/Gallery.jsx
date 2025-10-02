@@ -46,6 +46,7 @@ function FigurineCanvas({ url, anim, cam, loop, onSelect }) {
     useEffect(() => { controlsRef.current?.reset?.(); }, [url]);
 
     return (
+
         <div className="rounded-3"   style={{
         }}>
             <Canvas
