@@ -38,6 +38,7 @@ L’échantillon utilisé pour générer les statistiques provient du top ladder
 - Corée (KR)
 - Europe (EUW1)
 - Amérique du Nord (NA1)
+
 Pour chaque région, j’ai sélectionné les 20 joueurs ayant le plus de LP (League Points, système de points qui détermine le rang des joueurs).
 Ensuite, pour chacun de ces joueurs, les 20 dernières parties ont été récupérées et utilisées comme base pour les statistiques.
 ---
