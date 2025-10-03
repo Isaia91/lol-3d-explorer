@@ -38,7 +38,6 @@ L’échantillon utilisé pour générer les statistiques provient du top ladder
 - Corée (KR)
 - Europe (EUW1)
 - Amérique du Nord (NA1)
-
 Pour chaque région, j’ai sélectionné les 20 joueurs ayant le plus de LP (League Points, système de points qui détermine le rang des joueurs).
 Ensuite, pour chacun de ces joueurs, les 20 dernières parties ont été récupérées et utilisées comme base pour les statistiques.
 ---
@@ -63,7 +62,7 @@ Pour accéder aux données via l’API officielle de Riot Games, une clé API es
 
 - Comment obtenir une clé ?
 
-    - Crée un compte développeur sur le Riot Developer Portal.
+    - Crée un compte développeur sur le Riot Developer Portal(https://developer.riotgames.com/).
 
     - Se connecter et génèrer une clé API temporaire (valide 24h).
 
